@@ -1,0 +1,85 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 242
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 208,
+            "y": 1038.25
+          },
+          "nodeIndex": "Ingreso - Inv",
+          "nodeLineageTag": "25aafb5f-6431-489d-aff0-51bbacbb5e85",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 547.22474633077957,
+            "y": 926.96981645521214
+          },
+          "nodeIndex": "Países",
+          "nodeLineageTag": "db3cf7aa-c79c-4b81-afff-67b9eb629713",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 735.22474633077957,
+            "y": 597
+          },
+          "nodeIndex": "contenedores",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 811.22474633077957,
+            "y": 493.625
+          },
+          "nodeIndex": "Parámetro",
+          "nodeLineageTag": "64146176-525c-4225-926b-3f1dc460566e",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 641.22474633077957,
+            "y": 628.75
+          },
+          "nodeIndex": "Histórico - Ingreso",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}

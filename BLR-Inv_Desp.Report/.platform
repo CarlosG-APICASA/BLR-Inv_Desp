@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "BLR-Inv_Desp"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "40b3ab9a-1876-4dad-86e6-e37840c864f9"
+  }
+}
